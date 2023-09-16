@@ -1,4 +1,4 @@
-Здравстуйте, меня зовут Роман и я разработчик PHP.
+Здравстуйте, меня зовут Роман и я fullstack разработчик.
 Разрабатываю проекты на Laravel  и чистом PHP.
 <!---
 Rom4ik323/Rom4ik323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
